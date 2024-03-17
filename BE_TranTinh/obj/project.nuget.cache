@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "s6aRcl0YbAIkI7/8roVBFVl7xUff5R0Xuw0eXRhfxeMBEleoTX2bGE3RHJiy5IG2/W7Ivr0Jv/EgvVWXmwBNzA==",
+  "success": true,
+  "projectFilePath": "G:\\ASP.NET\\BeTranTinh\\BE_TranTinh\\BE_TranTinh\\BE_TranTinh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xuantinh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\xuantinh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\xuantinh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\xuantinh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\xuantinh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\xuantinh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
