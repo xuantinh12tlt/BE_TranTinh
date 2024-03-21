@@ -140,3 +140,18 @@ while(iMenu<=5)
 }    
 
 Console.ReadKey();
+
+/*
+ * 
+ * Ham la một nhóm các lệnh thực hiện một việc gì đó và có thể tái sử dụng, không nhất thiết là của một đối tượng
+ * 
+ * Method là hành động gì đó của đối tượng
+ * 
+ * Ban chat struct là kiểu dữ liệu tham trị, nó
+   Class				tham chiếu
+
+class là dai dien cho doi tuong cung dac diem, hanh vi, phuong thuc hanh dong
+thuoc tinh: cac dac diem cua doi tuong dc the hien ra ben ngoai
+
+virtual: có hoặc k cần override - abstract: bb
+ */
