@@ -1,15 +1,5 @@
-G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\bin\Debug\net6.0\CSharpBasic.exe
-G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\bin\Debug\net6.0\CSharpBasic.deps.json
-G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\bin\Debug\net6.0\CSharpBasic.runtimeconfig.json
-G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\bin\Debug\net6.0\CSharpBasic.dll
-G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\bin\Debug\net6.0\CSharpBasic.pdb
 G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\obj\Debug\net6.0\CSharpBasic.csproj.AssemblyReference.cache
 G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\obj\Debug\net6.0\CSharpBasic.GeneratedMSBuildEditorConfig.editorconfig
 G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\obj\Debug\net6.0\CSharpBasic.AssemblyInfoInputs.cache
 G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\obj\Debug\net6.0\CSharpBasic.AssemblyInfo.cs
 G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\obj\Debug\net6.0\CSharpBasic.csproj.CoreCompileInputs.cache
-G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\obj\Debug\net6.0\CSharpBasic.dll
-G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\obj\Debug\net6.0\refint\CSharpBasic.dll
-G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\obj\Debug\net6.0\CSharpBasic.pdb
-G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\obj\Debug\net6.0\CSharpBasic.genruntimeconfig.cache
-G:\ASP.NET\BeTranTinh\BE_TranTinh\CSharpBasic\obj\Debug\net6.0\ref\CSharpBasic.dll

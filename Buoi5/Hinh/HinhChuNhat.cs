@@ -20,5 +20,18 @@ namespace Buoi5.Hinh
         {
             return (ChieuDai + ChieuRong) * 2;
         }
+
+        public  bool checkIsNumber(string number)
+        {
+            int a;
+            if (int.TryParse(number, out a))
+            {
+                if (a < 0 || a > int.MaxValue)
+                    return false;
+                return true;
+            }
+            return false;
+
+        }
     }
 }

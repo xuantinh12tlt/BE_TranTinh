@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Buoi5/1.0.0": {
+        "dependencies": {
+          "SharedLibrary": "1.0.0"
+        },
         "runtime": {
           "Buoi5.dll": {}
+        }
+      },
+      "SharedLibrary/1.0.0": {
+        "runtime": {
+          "SharedLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Buoi5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

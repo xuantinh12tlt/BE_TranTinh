@@ -3,11 +3,45 @@ using Buoi5.Hinh;
 using Buoi5.QuanLyNhanVien;
 using Buoi5.QuanLySanPham;
 
+
+
 Console.WriteLine("Chuong trinh quan ly hinh");
 Console.WriteLine("HCN");
+
 HinhChuNhat hcn = new HinhChuNhat();
-hcn.ChieuDai = 5;
-hcn.ChieuRong = 10;
+Console.WriteLine("Nhap chieu dai");
+string sChieuDai = Console.ReadLine();
+
+while(!hcn.checkIsNumber(sChieuDai))
+{
+    Console.WriteLine("Nhap chua dung Chieu dai xin vui long nhap chu so");
+    sChieuDai = Console.ReadLine();   
+}
+hcn.ChieuDai = Convert.ToInt32(sChieuDai);
+
+while (hcn.ChieuDai<=0)
+{
+    Console.WriteLine("Chieu dai phai lon hon 0");    
+    hcn.ChieuDai = int.Parse(Console.ReadLine());
+}
+
+Console.WriteLine("Nhap chieu rong");
+string sChieuRong = Console.ReadLine();
+while (!hcn.checkIsNumber(sChieuRong))
+{
+    Console.WriteLine("Nhap chua dung Chieu rong xin vui long nhap chu so");
+    sChieuRong = Console.ReadLine();    
+}
+hcn.ChieuRong = Convert.ToInt32(sChieuRong);
+
+
+
+
+while (hcn.ChieuRong <= 0)
+{
+    Console.WriteLine("Chieu rong phai lon hon 0");
+    hcn.ChieuRong = int.Parse(Console.ReadLine());
+}
 Console.WriteLine("Dien tich hinh CN: \t " + hcn.DienTich());
 Console.WriteLine("Chu vi hinh CN \t" + hcn.ChuVi());
 
